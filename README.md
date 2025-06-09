@@ -1,1 +1,1 @@
-https://github.com/chaguine/ono-tebe-nado-mdchagin
+https://github.com/chaguine/ono-tebe-nado-fd
